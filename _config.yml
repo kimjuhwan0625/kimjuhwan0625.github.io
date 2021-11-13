@@ -26,11 +26,11 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: juhwan # add your name
-author-pic: Myself_Neon_grey.jpg
+author-pic: 증명사진.jpg
 about-author: student
 # Contact links
 email: juhwan0906@naver.com # Add your Email address
-phone: # Add your Phone number
+phone: null # Add your Phone number
 website: https://kimjuhwan0625.github.io # Add your website
 linkedin: amaynez # Add your Linkedin handle
 github: amaynez # Add your Github handle
