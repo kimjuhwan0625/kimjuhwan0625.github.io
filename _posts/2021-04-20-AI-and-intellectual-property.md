@@ -17,18 +17,18 @@ description: "As neural networks are used more and more in the creative process,
 이 글은 [얌무님의 블로그](https://youtu.be/_20KEwNx1UQ) 를 참고하여 만들었습니다. 
 
 재료: 밥, 치킨 너겟(대체가능), 계란, 양파, 간장2T, 맛술1T, 올리고당1T, 돈가스 소스, 마요네즈
-![재료](./assets/img/posts/20210420/num1.jpg)
+![num1](./assets/img/posts/20210420/num1.jpg)
 
 조리순서
 
 1.치킨 너겟을 노릇노릇하게 구워줍니다.
-![너겟굽기](./assets/img/posts/20210420/num2.jpg)
+![num2](./assets/img/posts/20210420/num2.jpg)
 
 2.구운 너겟을 먹기 좋게 썰어줍니다.
-![너겟 자르기](./assets/img/posts/20210420/num3.jpg)
+![num3](./assets/img/posts/20210420/num3.jpg)
 
 3.양파를 채로 썰어준뒤 양념 (간장2T, 맛술1T, 올리고당1T )을 넣고 볶아줍니다.
-![양파 썰기](./assets/img/posts/20210420/num4.jpg)
+![num4](./assets/img/posts/20210420/num4.jpg)
 
 
 
