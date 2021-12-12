@@ -45,5 +45,5 @@ mathjax: yes
 ![num8](./assets\img\posts\20210420\num8.JPG)
 
 6.완성!! 
-![num9](./assets\img\posts\20210420\num0.JPG)
+![num0](./assets\img\posts\20210420\num0.JPG)
 
