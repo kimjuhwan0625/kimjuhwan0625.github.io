@@ -5,7 +5,7 @@ show_date: true
 title:  "스트레스 받을땐 떡볶이지!"
 date:   2021-11-13 22:09:20 -0600
 description: 떡볶이 만들기!!!
-img: posts/20210420/num9.JPG
+img: posts/20210420/num0.JPG
 tags: [자취생 요리, 간단 요리, 분식]
 author: 김주환
 github:  https://github.com/kimjuhwan0625/kimjuhwan0625.github.io
@@ -45,5 +45,5 @@ mathjax: yes
 ![num8](./assets\img\posts\20210420\num8.JPG)
 
 6.완성!! 
-![num9](./assets\img\posts\20210420\num9.JPG)
+![num9](./assets\img\posts\20210420\num0.JPG)
 
