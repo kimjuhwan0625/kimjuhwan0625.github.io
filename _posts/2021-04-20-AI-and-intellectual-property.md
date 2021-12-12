@@ -1,4 +1,4 @@
-![img.png](img.png)---
+---
 layout: post
 read_time: true
 show_date: true
