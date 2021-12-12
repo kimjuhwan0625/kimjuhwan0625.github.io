@@ -2,44 +2,48 @@
 layout: post
 read_time: true
 show_date: true
-title: "간단 치킨마요 덮밥"
-date: 2021-12-09
-img: posts/20210420/num0.jpg
-tags: [자취생 요리, 간단 요리]
-category: opinion
+title:  "스트레스 받을땐 떡볶이지!"
+date:   2021-11-13 22:09:20 -0600
+description: 떡볶이 만들기!!!
+img: posts/20211201/num9.JPG
+tags: [자취생 요리, 간단 요리, 분식]
 author: 김주환
-description: "As neural networks are used more and more in the creative process, text, images and even music are now created by AI, but who owns the copyright for those works?"
+github:  https://github.com/kimjuhwan0625/kimjuhwan0625.github.io
+mathjax: yes
 ---
-냉동실에 남아있는 치킨 너겟으로 치킨마요 덮밥을 만드는 법을 공개하려 해요. 치킨 너겟이나 치킨이 없다면 다른 고기류로 대체 가능합니다.
+스트레스 받거나 비오는 날, 매운게 땡길때!! 집에서 간단하게 해먹을 수 있는 떡볶이 레시피를 공유하려 해요.
 
-<iframe width="560" height="315" src="https://youtu.be/_20KEwNx1UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=aIgelu5E608" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-이 글은 [얌무님의 블로그](https://youtu.be/_20KEwNx1UQ) 를 참고하여 만들었습니다. 
+이 글은 [반디님의 유튜브](https://www.youtube.com/watch?v=aIgelu5E608) 를 참고하여 만들었습니다. 
 
-재료: 밥, 치킨 너겟(대체가능), 계란, 양파, 간장2T, 맛술1T, 올리고당1T, 돈가스 소스, 마요네즈
-![num1](./assets/img/posts/20210420/num1.jpg)
+재료: [떡볶이 떡 1kg](https://www.coupang.com/vp/products/1548173516?itemId=2650025169&vendorItemId=70640893745&pickType=COU_PICK&q=%EB%96%A1%EB%B3%B6%EC%9D%B4+%EB%96%A1&itemsCount=36&searchId=72f39bd5adac4df0b0051eebc1d7d43a&rank=1), [사각어묵](https://www.coupang.com/vp/products/305534661?itemId=962884565&vendorItemId=5365567200&pickType=COU_PICK&q=%EC%82%AC%EA%B0%81+%EC%96%B4%EB%AC%B5&itemsCount=36&searchId=16e9559ead414f25a8c5e1cfec5f98fa&rank=0), [대파](https://www.coupang.com/vp/products/4697181065?itemId=5911958170&vendorItemId=73210037048&q=%EB%8C%80%ED%8C%8C&itemsCount=36&searchId=9b4540ecb1f245ac89c72a97b2f50e25&rank=1&isAddedCart=), [양배추](https://www.coupang.com/vp/products/1496018001?itemId=2569107215&vendorItemId=70561480254&pickType=COU_PICK&q=%EC%96%91%EB%B0%B0%EC%B6%94&itemsCount=36&searchId=b1dfbab68ccd4cf4b82cad6c08fc22a6&rank=1), [달걀](https://www.coupang.com/vp/products/1524568260?itemId=2615859407&vendorItemId=70606896211&q=%EA%B3%84%EB%9E%80&itemsCount=36&searchId=24c200cd95d1450089382f61789041f6&rank=1)
+![num1](./assets\img\posts\20211201\num1.JPG)
 
 조리순서
 
-1.치킨 너겟을 노릇노릇하게 구워줍니다.
-![num2](./assets/img/posts/20210420/num2.jpg)
+1.사각어묵을 적당히 마음에 드는 모양으로 잘라줍니다.
+![num1](./assets\img\posts\20211201\num2.JPG)
 
-2.구운 너겟을 먹기 좋게 썰어줍니다.
-![num3](./assets/img/posts/20210420/num3.jpg)
+2.대파 1대를 적당한 크기 잘라줍니다.
+![num1](./assets\img\posts\20211201\num3.JPG)
 
-3.양파를 채로 썰어준뒤 양념 (간장2T, 맛술1T, 올리고당1T )을 넣고 볶아줍니다.
-![num4](./assets/img/posts/20210420/num4.jpg)
+3.양배추 1/5개도 적당한 크기 잘라줍니다.(취향 따라 필수 아님)
+![num1](./assets\img\posts\20211201\num4.JPG)
 
+4.계란 3-4개를 끓는 물에 10분정도 삶은 후 찬물에 담가 식힌 후에 껍질을 벗겨줍니다.
+![num1](./assets\img\posts\20211201\num5.JPG)
 
+5.떡이 서로 붙어잇으면 떼어주고 물에 한번 헹궜다가 소쿠리에 건져놓습니다.
+![num6](./assets\img\posts\20211201\num6.JPG)
 
+6.넓은 팬에 물 1L를 부어주고 고추가루 8숟가락,양조간장 7숟가락,고추장 4숟가락,설탕 4숟가락 넣고 풀어줍니다.
+  양배추,대파,떡붂이,삶은 개란 한번 다 넣고 섞어가며 끓어줍니다.
+![num7](./assets\img\posts\20211201\num7.JPG)
 
+7.어묵을 넣고 대파 한번 더넣으면 더욱 맛있게 먹을 수 있어요.
+![num8](./assets\img\posts\20211201\num8.JPG)
 
-
-
-right laws to cater for computer generated works of art, but I believe this is one of those fields where technology will surpass our law making capacity and we will live under a grey area for a while, and maybe this is just what we need, by having these works ending up free for use by anyone in the world, perhaps a new model for remunerating creative work can be established, one that does not require commercial success to be necessary for artists to make a living, and thus they can become free to explore their art.
-
-<tweet>Perhaps a new model for remunerating creative work can be established, one that does not require commercial success to be necessary for artists to make a living.</tweet>
-
-![The next Rembrandt](./assets/img/posts/20210420/post8-rembrandt2.jpg)
-<small>[The Next Rembrandt](https://www.jwt.com/en/work/thenextrembrandt) is a computer-generated 3-D–printed painting developed by a facial-recognition algorithm that scanned data from 346 known paintings by the Dutch painter in a process lasting 18 months. The portrait is based on 168,263 fragments from Rembrandt’s works.</small>
+6.완성!! 
+![num1](./assets\img\posts\20211201\num9.JPG)
 
