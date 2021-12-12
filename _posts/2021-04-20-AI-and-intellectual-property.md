@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  "전자렌지로 만드는 약밥"
+title:  "쉽게 약밥 만들기"
 date:   2021-04-20 22:09:20 -0600
 description: 든든하게 먹어요
 img: posts/20210420/n5.JPG
