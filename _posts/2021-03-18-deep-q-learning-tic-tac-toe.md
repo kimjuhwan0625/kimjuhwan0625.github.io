@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title:  "편의점 재료로 만드는 반숙란 미트볼"
-date:   2021-04-20 22:09:20 -0600
+date:   2021-03-18 22:09:20 -0600
 description: 든든하게 먹어요
 img: posts/20210318/meat5.JPG
 tags: [자취생 요리, 간단 요리, 간식, 에어프라이어]
