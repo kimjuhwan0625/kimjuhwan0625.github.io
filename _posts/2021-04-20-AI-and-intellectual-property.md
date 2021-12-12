@@ -5,7 +5,7 @@ show_date: true
 title:  "스트레스 받을땐 떡볶이지!"
 date:   2021-04-20 22:09:20 -0600
 description: 떡볶이 만들기!!!
-img: posts/20210420/n6.JPG
+img: posts/20210420/n1.JPG
 tags: [자취생 요리, 간단 요리, 분식]
 author: 김주환
 github:  https://github.com/kimjuhwan0625/kimjuhwan0625.github.io
@@ -32,7 +32,7 @@ mathjax: yes
 ![n5](./assets\img\posts\20210420\n5.JPG)
 
 4.계란 3-4개를 끓는 물에 10분정도 삶은 후 찬물에 담가 식힌 후에 껍질을 벗겨줍니다.
-![n6](./assets\img\posts\20210420\n6.JPG)
+![n6](./assets\img\posts\20210420\n1.JPG)
 
 
 
