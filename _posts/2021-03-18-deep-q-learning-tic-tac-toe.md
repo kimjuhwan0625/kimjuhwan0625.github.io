@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  "편의점재료로 만드는 반숙란 미트볼"
+title:  "편의점 재료로 만드는 반숙란 미트볼"
 date:   2021-04-20 22:09:20 -0600
 description: 든든하게 먹어요
 img: posts/20210318/meat5.JPG
