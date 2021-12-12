@@ -35,6 +35,6 @@ mathjax: yes
 ![n6](./assets\img\posts\20210420\n6.JPG)
 
 5.완성!!!
-[n7](./assets\img\posts\20210420\n7.JPG)
+![n7](./assets\img\posts\20210420\n7.JPG)
 
 
