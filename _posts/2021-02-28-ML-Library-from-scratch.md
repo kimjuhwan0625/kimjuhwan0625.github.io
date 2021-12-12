@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title:  "부타동 만들기"
-date:   2021-03-12 22:09:20 -0600
+date:   2021-02-28 22:09:20 -0600
 description: 든든하게 먹어요
 img: posts/20210228/buta5.JPG
 tags: [자취생 요리, 고기, 일식, 가정식]
