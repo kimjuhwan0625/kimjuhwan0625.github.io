@@ -2,39 +2,40 @@
 layout: post
 read_time: true
 show_date: true
-title:  "쉽게 약밥 만들기"
+title:  "편의점재료로 만드는 반숙란 미트볼"
 date:   2021-04-20 22:09:20 -0600
 description: 든든하게 먹어요
-img: posts/20210420/n5.JPG
-tags: [자취생 요리, 간단 요리, 간식, 한식]
+img: posts/20210318/meat5.JPG
+tags: [자취생 요리, 간단 요리, 간식, 에어프라이어]
 author: 김주환
 github:  https://github.com/kimjuhwan0625/kimjuhwan0625.github.io
 mathjax: yes
 ---
-밥과 간식 사이!! 달달하면서도 든든한 약밥을 전자렌지만으로 간단하게 만드는 법을 알려드릴게요. 
+후다닥 살수 있는 편의점 재료로 바스켓 품으로~!
+영롱한 반숙란에 미트볼올 입은 바사삭 튀김 미트볼 ★
 
-<iframe width="560" height="315" src="https://youtu.be/ePRff3ZB-V4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/mwImCPzfom8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-이 글은 [만개의레시피 유튜브](https://youtu.be/ePRff3ZB-V4) 를 참고하여 만들었습니다. 
+이 글은 [만개의레시피 유튜브](https://youtu.be/mwImCPzfom8) 를 참고하여 만들었습니다. 
 
-재료: [찹쌀](https://www.coupang.com/vp/products/327924416?itemId=1048941653&vendorItemId=5513884608&sourceType=srp_product_ads&clickEventId=c4c708c3-f001-443c-b1b5-28194cebc1bf&korePlacement=15&koreSubPlacement=1&clickEventId=c4c708c3-f001-443c-b1b5-28194cebc1bf&korePlacement=15&koreSubPlacement=1&q=%EC%B0%B9%EC%8C%80&itemsCount=36&searchId=f8bf0309c7884b6a9bc6b24bcf6fb49c&rank=0), 각종 견과류, [흑설탕](https://www.coupang.com/vp/products/475751?itemId=1181030&vendorItemId=74720099184&q=%ED%9D%91%EC%84%A4%ED%83%95&itemsCount=36&searchId=a5932c2b419f45cd999965886ece14ff&rank=6), [간장](https://www.coupang.com/vp/products/1950520915?itemId=3313290034&vendorItemId=71264859094&pickType=COU_PICK&sourceType=srp_product_ads&clickEventId=f2238382-8215-4d83-877d-d50032ba92ee&korePlacement=15&koreSubPlacement=1&clickEventId=f2238382-8215-4d83-877d-d50032ba92ee&korePlacement=15&koreSubPlacement=1&q=%EA%B0%84%EC%9E%A5&itemsCount=36&searchId=1aabb33de0714e22ba4af7ce5c382615&rank=0), [꿀](https://www.coupang.com/vp/products/1388706773?itemId=2424220845&vendorItemId=70418284525&sourceType=srp_product_ads&clickEventId=aa26b8ed-a4ab-416c-a657-7315098e0bc7&korePlacement=15&koreSubPlacement=1&clickEventId=aa26b8ed-a4ab-416c-a657-7315098e0bc7&korePlacement=15&koreSubPlacement=1&q=%EA%BF%80&itemsCount=36&searchId=2bce4607ff9a49c39dfa65480ed78617&rank=0), [계피가루](https://www.coupang.com/vp/products/1968165?itemId=6864743289&vendorItemId=70140007483&q=%EA%B3%84%ED%94%BC%EA%B0%80%EB%A3%A8&itemsCount=36&searchId=d9d46905365042a7b70f488d0af6c0a0&rank=1), [소금](https://www.coupang.com/vp/products/5115974557?itemId=6987620953&vendorItemId=3036730760&q=%EC%86%8C%EA%B8%88&itemsCount=36&searchId=76198c52e2d54cba95cc043bf66e89ac&rank=1)
+재료: [미트볼](https://www.coupang.com/vp/products/4325574105?itemId=5040688608&vendorItemId=72350459597&sourceType=srp_product_ads&clickEventId=2125ed24-74cc-497f-bee2-03b3cdab254d&korePlacement=15&koreSubPlacement=1&clickEventId=2125ed24-74cc-497f-bee2-03b3cdab254d&korePlacement=15&koreSubPlacement=1&q=%EB%AF%B8%ED%8A%B8%EB%B3%BC&itemsCount=36&searchId=39750c1b01ff4886915666cab0b1897f&rank=0), [달걀](https://www.coupang.com/vp/products/1524568260?itemId=2615859407&vendorItemId=70606896211&q=%EA%B3%84%EB%9E%80&itemsCount=36&searchId=559b79a7a6514bf59ab95c9dac9d26e0&rank=1), [밀가루](https://www.coupang.com/vp/products/5479650?itemId=24854509&vendorItemId=3036730758&q=%EB%B0%80%EA%B0%80%EB%A3%A8&itemsCount=36&searchId=e0fc06fa9f804b0cbef39ddbfbb2324f&rank=1), 반숙란 계란(편의점 가면 구할수있어요), 나쵸 과자 
 
 조리순서
 
-1.찹쌀을 물에 씻고 20~30분간 불려주세요.
-![n2](./assets\img\posts\20210420\n2.JPG)
+1.미트볼은 전자레인지에 3분간 데운 후 손으로 잘게 으깨주세요.
+![n2](./assets\img\posts\20210318\meat1.JPG)
 
-2.약밥에 들어갈 재료들을 손질해주세요
-![n3](./assets\img\posts\20210420\n3.JPG)
+2.나쵸과자를 봉지에 넣고 부셔요.
+![n3](./assets\img\posts\20210318\meat2.JPG)
 
-3.소스를 만들어줍니다.(흑설탕 2+1/2숟가락, 참기름 1/4숟가락, 간장 1+1/2숟가락, 꿀 1/2숟가락, 계피가루 약간, 소금 약간)
-![n4](./assets\img\posts\20210420\n4.JPG)
+3.반숙란 껍질을 깐 후 으깬 미트볼로 감싸주세요
+![n4](./assets\img\posts\20210318\meat3.JPG)
 
-4.찹쌀의 물기를 제거한 후 물, 소스, 재료를 모두 넣고 전자레인지에 15~20분 돌린후 2분간 뜸을 들이고 꺼내줍니다.(기호에 따라 참기름 추가)
-![n5](./assets\img\posts\20210420\n5.JPG)
+4.밀가루>달걀물>부순 나쵸 순으로 묻혀주세요
+![n5](./assets\img\posts\20210318\meat4.JPG)
 
-5.약밥을 넓게 펼쳐 한 김 식힌 후, 모양을 만들어 먹기 좋게 자르면 완성!!!
-![n6](./assets\img\posts\20210420\n6.JPG)
+5.에어프라이어 바스켓에 하나씩 넣은 후 170도 온도에서 5분간 돌려주면 완성!!
+![n6](./assets\img\posts\20210318\meat5.JPG)
 
 
 추운겨울 차갑게 먹어도 맛있고 따뜻하게 먹으면 더 맛있는 약밥으로 방콕하면서 행복하게 지내요!
