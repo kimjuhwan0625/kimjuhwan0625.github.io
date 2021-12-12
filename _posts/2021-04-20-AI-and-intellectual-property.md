@@ -7,7 +7,7 @@ date: 2021-12-09
 img: posts/20210420/num0.jpg
 tags: [자취생 요리, 간단 요리]
 category: opinion
-author: Armando Maynez
+author: 김주환
 description: "As neural networks are used more and more in the creative process, text, images and even music are now created by AI, but who owns the copyright for those works?"
 ---
 냉동실에 남아있는 치킨 너겟으로 치킨마요 덮밥을 만드는 법을 공개하려 해요. 치킨 너겟이나 치킨이 없다면 다른 고기류로 대체 가능합니다.
