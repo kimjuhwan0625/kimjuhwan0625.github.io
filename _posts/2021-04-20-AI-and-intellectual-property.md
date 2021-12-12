@@ -18,20 +18,23 @@ mathjax: yes
 이 글은 [반디님의 유튜브](https://www.youtube.com/watch?v=aIgelu5E608) 를 참고하여 만들었습니다. 
 
 재료: [떡볶이 떡 1kg](https://www.coupang.com/vp/products/1548173516?itemId=2650025169&vendorItemId=70640893745&pickType=COU_PICK&q=%EB%96%A1%EB%B3%B6%EC%9D%B4+%EB%96%A1&itemsCount=36&searchId=72f39bd5adac4df0b0051eebc1d7d43a&rank=1), [사각어묵](https://www.coupang.com/vp/products/305534661?itemId=962884565&vendorItemId=5365567200&pickType=COU_PICK&q=%EC%82%AC%EA%B0%81+%EC%96%B4%EB%AC%B5&itemsCount=36&searchId=16e9559ead414f25a8c5e1cfec5f98fa&rank=0), [대파](https://www.coupang.com/vp/products/4697181065?itemId=5911958170&vendorItemId=73210037048&q=%EB%8C%80%ED%8C%8C&itemsCount=36&searchId=9b4540ecb1f245ac89c72a97b2f50e25&rank=1&isAddedCart=), [양배추](https://www.coupang.com/vp/products/1496018001?itemId=2569107215&vendorItemId=70561480254&pickType=COU_PICK&q=%EC%96%91%EB%B0%B0%EC%B6%94&itemsCount=36&searchId=b1dfbab68ccd4cf4b82cad6c08fc22a6&rank=1), [달걀](https://www.coupang.com/vp/products/1524568260?itemId=2615859407&vendorItemId=70606896211&q=%EA%B3%84%EB%9E%80&itemsCount=36&searchId=24c200cd95d1450089382f61789041f6&rank=1)
-![num1](./assets\img\posts\20210420\n2.JPG)
+![n2](./assets\img\posts\20210420\n2.JPG)
 
 조리순서
 
 1.사각어묵을 적당히 마음에 드는 모양으로 잘라줍니다.
-![num2](./assets\img\posts\20210420\n3.JPG)
+![n3](./assets\img\posts\20210420\n3.JPG)
 
 2.대파 1대를 적당한 크기 잘라줍니다.
-![num3](./assets\img\posts\20210420\n4.JPG)
+![n4](./assets\img\posts\20210420\n4.JPG)
 
 3.양배추 1/5개도 적당한 크기 잘라줍니다.(취향 따라 필수 아님)
-![num4](./assets\img\posts\20210420\n5.JPG)
+![n5](./assets\img\posts\20210420\n5.JPG)
 
 4.계란 3-4개를 끓는 물에 10분정도 삶은 후 찬물에 담가 식힌 후에 껍질을 벗겨줍니다.
-![num5](./assets\img\posts\20210420\n6.JPG)
+![n6](./assets\img\posts\20210420\n6.JPG)
+
+5.완성!!!
+[n7](./assets\img\posts\20210420\n7.JPG)
 
 
