@@ -23,23 +23,23 @@ mathjax: yes
 조리순서
 
 1.사각어묵을 적당히 마음에 드는 모양으로 잘라줍니다.
-![num2](./assets\img\posts\20210420\num2.JPG)
+![num2](./assets\img\posts\20210420\n2.JPG)
 
 2.대파 1대를 적당한 크기 잘라줍니다.
-![num3](./assets\img\posts\20210420\num3.JPG)
+![num3](./assets\img\posts\20210420\n3.JPG)
 
 3.양배추 1/5개도 적당한 크기 잘라줍니다.(취향 따라 필수 아님)
-![num4](./assets\img\posts\20210420\num4.JPG)
+![num4](./assets\img\posts\20210420\n4.JPG)
 
 4.계란 3-4개를 끓는 물에 10분정도 삶은 후 찬물에 담가 식힌 후에 껍질을 벗겨줍니다.
-![num5](./assets\img\posts\20210420\num5.JPG)
+![num5](./assets\img\posts\20210420\n5.JPG)
 
 5.떡이 서로 붙어잇으면 떼어주고 물에 한번 헹궜다가 소쿠리에 건져놓습니다.
-![num6](./assets\img\posts\20210420\num6.JPG)
+![num6](./assets\img\posts\20210420\n6.JPG)
 
 6.넓은 팬에 물 1L를 부어주고 고추가루 8숟가락,양조간장 7숟가락,고추장 4숟가락,설탕 4숟가락 넣고 풀어줍니다.
   양배추,대파,떡붂이,삶은 개란 한번 다 넣고 섞어가며 끓어줍니다.
-![num7](./assets\img\posts\20210420\num7.JPG)
+![num7](./assets\img\posts\20210420\n7.JPG)
 
 7.어묵을 넣고 대파 한번 더넣으면 더욱 맛있게 먹을 수 있어요.
 ![num8](./assets\img\posts\20210420\num8.JPG)
