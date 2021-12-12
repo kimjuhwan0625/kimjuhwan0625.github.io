@@ -5,7 +5,7 @@ show_date: true
 title:  "스트레스 받을땐 떡볶이지!"
 date:   2021-04-20 22:09:20 -0600
 description: 떡볶이 만들기!!!
-img: posts/20210420/n7.JPG
+img: posts/20210420/nㅕ7.JPG
 tags: [자취생 요리, 간단 요리, 분식]
 author: 김주환
 github:  https://github.com/kimjuhwan0625/kimjuhwan0625.github.io
@@ -37,13 +37,8 @@ mathjax: yes
 5.떡이 서로 붙어잇으면 떼어주고 물에 한번 헹궜다가 소쿠리에 건져놓습니다.
 ![num6](./assets\img\posts\20210420\n6.JPG)
 
-6.넓은 팬에 물 1L를 부어주고 고추가루 8숟가락,양조간장 7숟가락,고추장 4숟가락,설탕 4숟가락 넣고 풀어줍니다.
-  양배추,대파,떡붂이,삶은 개란 한번 다 넣고 섞어가며 끓어줍니다.
-![num7](./assets\img\posts\20210420\n7.JPG)
+6.완성!!!
+![num7](./assets\img\posts\20210420\nu7.JPG)
 
-7.어묵을 넣고 대파 한번 더넣으면 더욱 맛있게 먹을 수 있어요.
-![num8](./assets\img\posts\20210420\n8.JPG)
 
-6.완성!! 
-![num0](./assets\img\posts\20210420\n0.JPG)
 
