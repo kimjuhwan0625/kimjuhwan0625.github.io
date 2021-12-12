@@ -5,7 +5,7 @@ show_date: true
 title:  "부타동 만들기"
 date:   2021-02-28 22:09:20 -0600
 description: 든든하게 먹어요
-img: posts/20210228/buta5.JPG
+img: posts/20210228/buta6.JPG
 tags: [자취생 요리, 고기, 일식, 가정식]
 author: 김주환
 github:  https://github.com/kimjuhwan0625/kimjuhwan0625.github.io
