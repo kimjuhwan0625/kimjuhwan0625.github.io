@@ -16,7 +16,8 @@ description: "As neural networks are used more and more in the creative process,
 
 이 글은 [얌무님의 블로그](https://youtu.be/_20KEwNx1UQ) 를 참고하여 만들었습니다. 
 
-재료: 밥, 치킨 너겟(대체가능), 계란, 양파, 간장2T, 맛술1T, 올리고당1T, 돈가스 소스, 마요네즈
+재료: 밥, 치킨 너겟(대체가능), 계란, 양파, 간장2T, 맛술1T, 올리고당1T, 
+돈까스 소스, 마요네즈
 ![num1](./assets/img/posts/20210420/num1.jpg)
 
 조리순서
